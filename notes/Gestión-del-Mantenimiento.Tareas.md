@@ -2,7 +2,7 @@
 id: 3zyfzxqtlfdnds0xjjs1rlo
 title: Tareas
 desc: ''
-updated: 1677598625677
+updated: 1678980836256
 created: 1676218119097
 status: ''
 due: ''
@@ -29,3 +29,7 @@ owner: ''
 - [ ] FDA e INVIMA
 - [ ] Caso de estudio: Huxley & Sox
 - [ ] Tecnologías Euro 6+
+
+### Importante
+- [ ] Análisis de modo y efectos de falla
+- [ ] 

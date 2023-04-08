@@ -16,6 +16,10 @@
       "path": "Semestre VIII/Procesos de Manufactura",
       "name": "procesos-1"
     },
+    {
+      "path": "Semestre VIII/Fundamentos-de-automatizacion",
+      "name": "automatizacion"
+    }
   ],
   "settings": {
     "dendron.rootDir": ".",

@@ -2,9 +2,12 @@
 id: y9u4o2k8diuxhlgsc2rv24v
 title: Clases Anteriores
 desc: ''
-updated: 1678459481885
+updated: 1680182111613
 created: 1677372811702
 ---
+
+
+- [Clase fantasma](https://www.youtube.com/watch?v=sw86leShseI) - Cruce por 0, inicio del tema de temporizadores
 
 1. [Configuraciones básicas I](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjcyMzUyOTc4MjM5/details)
 2. [Configuraciones básicas II](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjcyNTI3NjkzMzM2/details)
@@ -14,10 +17,10 @@ created: 1677372811702
 6. [Implementación de controladores PI](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjczMzg4MDM1Mzg5/details)
 7.  [Generador de onda cuadrada](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjczNTUyMjc1MjAx/details)
 8.  [Comparador con histéresis](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjgwMjk5OTQxMDc5/details)
-9. [Slew-rate, offset, impedancia de entrada](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjgxNDk0NzAzMzA4/details)
-10. [Temporizadores](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjgxNzQ2NDk0MTk0/details)
-11. [Limitaciones de ancho de banda](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjczNjgzODc3MTM5/details)
-12. [Generador de onda seno, fotodiodo, LDR...](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjgxOTAwNjg2MzMz/details)
+9.  [Limitaciones de ancho de banda](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjczNjgzODc3MTM5/details)
+10. [Slew-rate, offset, impedancia de entrada](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjgxNDk0NzAzMzA4/details)
+11. [Generador de onda seno, fotodiodo, LDR...](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjgxOTAwNjg2MzMz/details)
+12. [Temporizadores](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjgxNzQ2NDk0MTk0/details)
 13. [Filtros activos I](https://classroom.google.com/c/NTkxMDI5NDcw/m/MzI1MTMwOTI1ODg0/details)
 14. [Filtros activos II](https://classroom.google.com/c/NTkxMDI5NDcw/m/Mjg4OTc3NDE0OTkz/details)
 15. [Filtros activos III](https://classroom.google.com/c/NTkxMDI5NDcw/m/Mjg5MTE1MDI0NDk5/details)

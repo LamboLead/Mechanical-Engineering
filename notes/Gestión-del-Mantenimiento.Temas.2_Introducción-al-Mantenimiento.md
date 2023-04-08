@@ -2,11 +2,11 @@
 id: n36e70bpkzdq02gtunkhn5y
 title: 2 - Introducción al Mantenimiento
 desc: ''
-updated: 1677368314083
+updated: 1679987730634
 created: 1676388287104
 ---
 
-El mantenimiento es un conjunto de conocimientos, técnicas y habilidades que son aplicadas para farantizar el buen funcionamiento de los sistemas durante su vida útil programada.
+El mantenimiento es un conjunto de conocimientos, técnicas y habilidades que son aplicadas para garantizar el buen funcionamiento de los sistemas durante su vida útil programada.
 
 ## Conceptos importantes
 

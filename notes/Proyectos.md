@@ -1,7 +1,7 @@
 ---
 id: dni7d8tuqdowtmr1wjj4tf4
-title: Proyecto
+title: Proyectos
 desc: ''
-updated: 1676664546032
+updated: 1679160802970
 created: 1676664546032
 ---

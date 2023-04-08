@@ -2,7 +2,7 @@
 id: n86x65zgipsafylu738ee94
 title: 7 - Análisis de Funciones
 desc: ''
-updated: 1677602352663
+updated: 1679988644567
 created: 1677599152418
 ---
 
@@ -17,7 +17,7 @@ Debe representar todos los deseos, necesidades y exigencias solicitadas.
 
 Verbo + sustantivo + parámetro de operación (cuantitativo)
 
-> Es necesario definir correctamente las necesidades de un producto para que esté bien diseñado, así como para garantizar 
+> Es necesario definir correctamente las necesidades de un producto para que esté bien diseñado, así como para garantizar que sean cumplidos correctamente durante su operación.
 
 ## Conceptos
 - Árbol funcional (permite realizar una taxonomía del equipo, hasta el ítem mantenible)
