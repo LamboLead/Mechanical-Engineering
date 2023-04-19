@@ -2,7 +2,7 @@
 id: y9u4o2k8diuxhlgsc2rv24v
 title: Clases Anteriores
 desc: ''
-updated: 1680182111613
+updated: 1681001071412
 created: 1677372811702
 ---
 
@@ -15,9 +15,9 @@ created: 1677372811702
 4. [OPAM integrador compensado, derivador, y circuitos PI, PD y PID](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjczMDU5NDI1NDIy/details)
 5. [Diseño de controladores PI](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjczMjM0ODQyMzMz/details)
 6. [Implementación de controladores PI](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjczMzg4MDM1Mzg5/details)
-7.  [Generador de onda cuadrada](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjczNTUyMjc1MjAx/details)
-8.  [Comparador con histéresis](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjgwMjk5OTQxMDc5/details)
-9.  [Limitaciones de ancho de banda](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjczNjgzODc3MTM5/details)
+7. [Generador de onda cuadrada](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjczNTUyMjc1MjAx/details)
+8. [Comparador con histéresis](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjgwMjk5OTQxMDc5/details)
+9. [Limitaciones de ancho de banda](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjczNjgzODc3MTM5/details)
 10. [Slew-rate, offset, impedancia de entrada](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjgxNDk0NzAzMzA4/details)
 11. [Generador de onda seno, fotodiodo, LDR...](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjgxOTAwNjg2MzMz/details)
 12. [Temporizadores](https://classroom.google.com/c/NTkxMDI5NDcw/m/MjgxNzQ2NDk0MTk0/details)

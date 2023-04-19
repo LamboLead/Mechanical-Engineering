@@ -1,8 +1,8 @@
 ---
 id: b35p5l01b3lx433rh05l83v
-title: 2 - Lanzadora de Ping Pongs
+title: 2 - Lanzadora de pelotas de ping-pong
 desc: ''
-updated: 1677120404912
+updated: 1681748533636
 created: 1676262060186
 ---
 **Fecha de entrega: 20/04/23** 

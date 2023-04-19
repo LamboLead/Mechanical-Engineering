@@ -2,7 +2,7 @@
 id: rxiw85awi87fppx9p6ya0tp
 title: '2023-04-07'
 desc: ''
-updated: 1680911605358
+updated: 1681062324728
 created: 1680565425704
 traitIds:
   - journalNote
@@ -12,15 +12,7 @@ traitIds:
 - [X] Reunión con Liav
 
 ### Gestión del Mantenimiento ()
-- [ ] Organizar bitácoras de reuniones pasadas
-- [ ] Trabajar en Autodicol
-
-### Elementos de máquinas II ()
-- [ ] Trabajar en diseño conceptual de máquina
-- [ ] Trabajar en variador de discos
-
-### Electrónica Análoga I ()
-- [ ] Adelantarse de una clase
+- [X] Trabajar en Autodicol
 
 ### Lambolead Tech (18-19)
-- [ ] Terminar de cuadrar el servidor para Playa Alegre
+- [X] Terminar de cuadrar el servidor para Playa Alegre
