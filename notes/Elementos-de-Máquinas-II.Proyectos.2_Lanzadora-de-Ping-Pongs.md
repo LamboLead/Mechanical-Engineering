@@ -2,7 +2,7 @@
 id: b35p5l01b3lx433rh05l83v
 title: 2 - Lanzadora de pelotas de ping-pong
 desc: ''
-updated: 1681748533636
+updated: 1684296371462
 created: 1676262060186
 ---
 **Fecha de entrega: 20/04/23** 
@@ -16,11 +16,3 @@ La máquina deberá lanzar pelotas de ping-pong de tal forma que un receptor pue
 - Deberá lanzar un gran número de pelotas por tiempo.
 - La operación humana de la máquina deberá ser casi nula.
 - Direccionamiento y control de velocidad.
-
-### Materiales
-Cualesquiera, siempre y cuando la máquina posea, al menos:
-- 1 cremallera.
-- 1 polea.
-- 1 variador de velocidad eléctrico o mecánico.
-
-![](/assets/images/![](/assets/images/2023-02-13-16-44-58.png).png)

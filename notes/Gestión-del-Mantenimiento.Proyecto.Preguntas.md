@@ -2,7 +2,7 @@
 id: yv3jv0bts64fmtx1hhfupnv
 title: Preguntas
 desc: ''
-updated: 1680552971801
+updated: 1684433972112
 created: 1680143706754
 ---
 
@@ -22,4 +22,10 @@ created: 1680143706754
     - Procedimiento de compra de repuestos
 - [ ] ¿Cómo realizar un plan de mantenimiento si no se tienen datos o es muy difícil conseguirlos?
 - [ ] ¿Cómo realizar gestión de activos de la empresa? ¿Cómo empezar a realizar dicho procedimiento?
-- [ ] 
+
+## Otras preguntas
+- [ ] ¿Qué debe llevar un Análisis de Causa Raíz?
+- [ ] ¿Cómo se realiza un análisis de criticidad?
+- [ ] ¿Cómo se realiza un FMEA y cómo está relacionado con el análisis de criticidad?
+- [ ] ¿Qué es un FMECA?
+- [ ] ¿Cómo implementar algo de TPM en el proyecto?

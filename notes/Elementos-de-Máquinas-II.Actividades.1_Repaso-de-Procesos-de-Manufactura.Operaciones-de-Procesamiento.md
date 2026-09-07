@@ -2,7 +2,7 @@
 id: 6x7od0yguslnki3rfsyjdv0
 title: Operaciones de Procesamiento
 desc: ''
-updated: 1676375714353
+updated: 1687274882814
 created: 1676218620674
 ---
 
@@ -84,7 +84,7 @@ Proceso de corte que consiste en introducir a presión una plantilla de corte af
 Se somete un metal a una carga de compresión entre dos moldes utilizando una prensa. Puede realizarse en frío o en caliente.
 
 ### Extrusión
-Se hace pasar a presión una barra o lingote de mteal por una matriz de diseño especial, para producir tubos huecos u otros perfiles.
+Se hace pasar a presión una barra o lingote de metal por una matriz de diseño especial, para producir tubos huecos u otros perfiles.
 
 ## Desprendimiento de material
 

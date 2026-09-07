@@ -2,13 +2,13 @@
 id: 7fuvqtgrbsg6fe0zjn1zdj3
 title: 9 - Análisis de Modo y Efectos de Falla
 desc: ''
-updated: 1680009875795
+updated: 1684429860031
 created: 1678207439233
 ---
 
 Es una técnica que permite la identificación de los potenciales modoes de fallas, pero al mismo tiempo las consecuencias que estas podrían provocar, las causas que los originan y las posiblees actividades para evitarlas.
 
-- Auxilia la fotoma de decisión, priorizand loos riestos potenciales de falla en proyectos, procesos y sistemas.
+- Auxilia la toma de decisión, priorizando los riesgos potenciales de falla en proyectos, procesos y sistemas.
 - Es una herramienta de gestión. Permite la mejora continua.
 
 ## ¿Cómo funciona?
@@ -59,8 +59,6 @@ Se realiza después de que la falla haya ocurrido.
 - Ruptura, presencia de grietas, fracturas, paralización del equipo, deformación, pérdida de fijación, derrame.
 **Efecto de la falla:** Consecuencia mayor que puede generar la falla del activo. Es necesario hacer uso del árbol funcional para poder propagar 4 identificar los componeentes asociados.
 **Severidad:** Asignación de valor de la falla en función del impacto que ocasiona el sistema. De aquí se define el indicador Número de Prioridad de Riesgo. La asignación de este criterio depende de la norma utilizada.
-
-
 
 # Para invvestigar:
 - Modo de falla

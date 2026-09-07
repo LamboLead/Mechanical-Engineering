@@ -3,22 +3,6 @@
     {
       "path": "notes",
       "name": "Ingeniería mecánica"
-    },
-    {
-      "path": "Semestre VIII/Electrónica Análoga I",
-      "name": "análoga-1"
-    },
-    {
-      "path": "Semestre VIII/Elementos-de-maquinas-II",
-      "name": "elementos-2"
-    },
-    {
-      "path": "Semestre VIII/Procesos de Manufactura",
-      "name": "procesos-1"
-    },
-    {
-      "path": "Semestre VIII/Fundamentos-de-automatizacion",
-      "name": "automatizacion"
     }
   ],
   "settings": {
@@ -32,7 +16,8 @@
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "editor.suggest.showSnippets": true,
     "editor.tabCompletion": "on",
-    "dendron.enableSelfContainedVaultWorkspace": true
+    "dendron.enableSelfContainedVaultWorkspace": true,
+    "gutenberg.useDifferentRootPath": "C:/Users/juand/Documentos (local)/Ingeniería Mecánica/notes"
   },
   "extensions": {
     "recommendations": [

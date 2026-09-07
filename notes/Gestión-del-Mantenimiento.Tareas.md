@@ -2,14 +2,13 @@
 id: 3zyfzxqtlfdnds0xjjs1rlo
 title: Tareas
 desc: ''
-updated: 1678980836256
+updated: 1684112946984
 created: 1676218119097
 status: ''
 due: ''
 priority: ''
 owner: ''
 ---
-
 ### 14/02/23
 - [X] Investigar sobre CAPEX y OPEX (ver [[curva de costos asociada a la gestión de activos|Gestión-del-Mantenimiento.Temas.1_Gestión-de-Activos#^Figura-1]]).
 
